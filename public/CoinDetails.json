@@ -45,14 +45,14 @@
     "id": "7",
     "amount": "+0.52452",
     "type": "received",
-    "address": "0x1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+    "address": "0x1BvBMSEYstWetqTFn5m4GFg7xJaNVN2",
     "timeStamp": "Yesterday, 9:45 AM"
   },
   {
     "id": "8",
     "amount": "-0.52452",
     "type": "sent",
-    "address": "0x1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+    "address": "0x1BvBMSEYstWetqTFn5Au4m4GFg7xJ2",
     "timeStamp": "Dec,13, 05:12 AM"
   },
   {
